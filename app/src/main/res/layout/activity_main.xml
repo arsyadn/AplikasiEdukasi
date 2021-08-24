@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cee5d0"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="411dp"
+        android:layout_height="674dp"
+        android:layout_marginTop="2dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottom_navigation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif-smallcaps"
+                android:text="Ensiklopedia Presiden Indonesia"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="22dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="384dp"
+                android:layout_height="187dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="35dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView2"
+                app:srcCompat="@drawable/allpresident" />
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardView"
+                android:layout_width="380dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="21dp"
+                app:cardCornerRadius="20dp"
+                app:contentPadding="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView">
+
+                <TextView
+                    android:id="@+id/textView"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed"
+                    android:text="Presiden adalah suatu kata yang berasal dari bahasa Latin yaitu prae-sebelum dan sedere-menduduki. Pengertian Presiden Indonesia adalah kepala negara dan sekaligus kepala pemerintahan Indonesia. Presiden di Indonesia untuk satu kali masa jabatan adalah 5 tahun dan sesudahnya, ia bisa dipilih kembali untuk satu kali masa jabatan.
+
+            \n\nSebagai kepala negara, Presiden memiliki hak politis yang sudah ditetapkan oleh konstitusi suatu negara. Sedangkan sebagai kepala Pemerintahan, presiden memegang kekuasaan eksekutif untuk melaksanakan tugas-tugas pemerintahan sehari-hari. Dan untuk menjalankan tugas eksekutif tersebut, Presiden dibantu oleh Wakil Presiden dan para menteri-menteri di dalam kabinet.
+            \n\nTerdapat 7 Presiden Indonesia yang pernah ataupun masih menjabat sampai sekarang yaitu :\n
+            1.Ir. Soekarno,\n
+            2. Soeharto,\n
+            3. B. J. Habibie,\n
+            4. Abdurrahman Wahid,\n
+            5. Megawati Soekarnoputri,\n
+            6. Susilo Bambang Yudhoyono,\n
+            7. Joko Widodo.
+            "
+                    android:textColor="@color/black"
+                    android:textSize="16sp" />
+
+            </androidx.cardview.widget.CardView>
+
+            <Button
+                android:layout_marginTop="30dp"
+                android:id="@+id/buttonStart"
+                android:layout_gravity="center"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:text="Start Audio" />
+
+            <Button
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginBottom="20dp"
+                android:id="@+id/buttonStop"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:text="Stop Audio" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+        android:background="#00adb5"
+        app:itemIconTint="@drawable/selector"
+        app:itemTextColor="@drawable/selector"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/menu_navigation">
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

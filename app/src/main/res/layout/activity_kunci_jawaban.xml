@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B8DFD8"
+    tools:context=".KunciJawaban">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="sans-serif-condensed"
+            android:text="KUNCI JAWABAN"
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            />
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_marginTop="20dp"
+            android:layout_margin="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:cardCornerRadius="30dp"
+            app:contentPadding="15dp"
+            >
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-condensed"
+                android:text="1. Siapakah nama tokoh diatas? (Soekarno),\n
+            \n2. Siapakah presiden keenam Indonesia? (Susilo Bambang Yudhoyono),\n
+            \n3. Siapakah nama tokoh diatas? (B. J. Habibie),\n
+            \n4. Tahun berapakah Soekarno lahir? (1901),\n
+            \n5. Siapakah presiden yang menjabat pada tahun 1999-2001? (Abdurrahman Wahid),\n
+            \n
+            \n6. Siapakah presiden yang mendapat julukan sebagai Pahlawan Proklamasi? (Soekarno),\n
+            \n7. Siapakah nama tokoh diatas? (Joko Widodo),\n
+            \n8. Tahun berapakah masa bakti Abdurrahman Wahid? (1999-2001),\n
+            \n9. Siapakah nama tokoh diatas? (Susilo Bambang Yudhoyono),\n
+            \n10. Siapakah anak sulung presiden RI pertama yang kemudian terpilih menjadi presiden? (Megawati Soekarnoputri),\n
+            \n
+            \n11. Siapakah presiden yang memegang kekuasaan terlama sepanjang sejarah Indonesia? (Soeharto),\n
+            \n12. Siapakah presiden ketiga Indonesia? (B. J. Habibie),\n
+            \n13. Siapakah nama tokoh diatas? (Abdurrahman Wahid),\n
+            \n14. Tahun berapakah masa bakti Joko Widodo? (2014-Sekarang),\n
+            \n15. Siapakah nama tokoh diatas? (Megawati Soekarnoputri),\n
+            \n
+            \n16. Tahun berapakah masa bakti Soeharto? (1966-1998),\n
+            \n17. Tahun berapakah Susilo Bambang Yudhoyono lahir? (1949),\n
+            \n18. Tahun berapakah Abdurrahman Wahid lahir? (1940),\n
+            \n19. Joko Widodo lahir dimana? (Surakarta),\n
+            \n20. Siapakah presiden pertama Indonesia? (Soekarno),\n
+            \n
+            \n21. B. J. Habibie lahir dimana? (Pare-Pare, Sulawesi Selatan),\n
+            \n22. Siapakah nama tokoh diatas? (Soeharto),\n
+            \n23. Pasangan dari presiden keempat Indonesia? (Sinta Nuriah),\n
+            \n24. Pasangan dari presiden ketiga Indonesia? (Hasri Ainun Besari),\n
+            \n25. Siapakah presiden yang memiliki masa bakti 2014-Sekarang? (Joko Widodo)
+            \n\n
+        "
+                android:textColor="@color/black"
+                android:textSize="14dp" />
+        </androidx.cardview.widget.CardView>
+
+
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="157dp"
+                    android:layout_marginLeft="157dp"
+                    android:layout_marginTop="13dp"
+                    android:layout_marginEnd="156dp"
+                    android:layout_marginRight="156dp"
+                    android:layout_marginBottom="30dp"
+                    android:onClick="kembali"
+                    android:layout_gravity="center"
+                    android:text="Kembali"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/cardView2" />
+
+
+
+
+    </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

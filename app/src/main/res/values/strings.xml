@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Ensiklopedia President Indonesia</string>
+
+    <string-array name="allpresident">
+        <item>Ir. Soekarno</item>
+        <item>Soeharto</item>
+        <item>B. J. Habibie</item>
+        <item>Abdurrahman W.</item>
+        <item>Megawati S.</item>
+        <item>Susilo Bambang Y.</item>
+        <item>Joko Widodo</item>
+    </string-array>
+
+    <string-array name="urutanpresiden">
+        <item>Masa Bakti 1945-1966</item>
+        <item>Masa Bakti 1966-1998</item>
+        <item>Masa Bakti 1998-1999</item>
+        <item>Masa Bakti 1999-2001</item>
+        <item>Masa Bakti 2001-2004</item>
+        <item>Masa Bakti 2004-2014</item>
+        <item>Masa Bakti 2014-Sekarang</item>
+    </string-array>
+
+
+    <string-array name="judulpresiden">
+        <item>Ir. Soekarno</item>
+        <item>Soeharto</item>
+        <item>B. J. Habibie</item>
+        <item>Abdurrahman Wahid</item>
+        <item>Megawati Soekarnoputri</item>
+        <item>Susilo Bambang Yudhoyono</item>
+        <item>Joko Widodo</item>
+    </string-array>
+
+    <string-array name="penjelasan">
+         <item>Nama : Soekarno
+            \nLahir : Surabaya, Jawa Timur, 6 Juni 1901
+            \nWafat : Jakarta, 21 Juni 1970
+            \nMasa Bakti : 1945 - 1966
+            \nWakil Presiden : Mohammad Hatta
+
+            \n\nPresiden pertama Republik Indonesia, ayahnya bernama Raden Soekemi Sosrodihardjo dan ibunya Ida Ayu Nyoman Rai. Semasa hidupnya, beliau mempunyai tiga istri dan dikaruniai delapan anak. Dari istri Fatmawati mempunyai anak Guntur, Megawati, Rachmawati, Sukmawati dan Guruh. Dari istri Hartini mempunyai Taufan dan Bayu, sedangkan dari istri Ratna Sari Dewi, wanita turunan Jepang bernama asli Naoko Nemoto mempunyai anak Kartika.
+            \n\nMasa kecil Soekarno hanya beberapa tahun hidup bersama orang tuanya di Blitar. Semasa SD hingga tamat, beliau tinggal di Surabaya. Kemudian melanjutkan sekolah di HBS (Hoogere Burger School). Selepas lulus HBS tahun 1920, pindah ke Bandung dan melanjut ke THS (Technische Hoogeschool atau sekolah Tekhnik Tinggi yang sekarang menjadi ITB). Ia berhasil meraih gelar Ir pada 25 Mei 1926.
+            \n\nPada hari Minggu, 21 Juni 1970 ia meninggal dunia di RSPAD. Ia disemayamkan di Wisma Yaso, Jakarta dan dimakamkan di Blitar, Jatim di dekat makam ibundanya, Ida Ayu Nyoman Rai. Pemerintah menganugerahkannya sebagai Pahlawan Proklamasi.
+            \n\n
+        </item>
+        <item>Nama : Soeharto
+            \nLahir : Yogyakarta, 8 Juni 1921
+            \nWafat : Jakarta, 27 Januari 2008
+            \nMasa Bakti : 1966 - 1998
+            \nWakil Presiden :
+            \n- Sri Sultan Hamengkubuwono IX (1973-1978)
+            \n- Adam Malik (1978-1983)
+            \n- Umar Wirahadikusumah (1983-1988)
+            \n- Sudharmono (1988-1993)
+            \n- Try Sutrisno (1993-1998)
+            \n- B.J. Habibie (1998)
+
+            \n\nSoeharto adalah Presiden kedua Republik Indonesia. Bapaknya bernama Kertosudiro seorang petani yang juga sebagai pembantu lurah dalam pengairan sawah desa, sedangkan ibunya bernama Sukirah.
+            \n\nSoeharto masuk sekolah tatkala berusia delapan tahun, tetapi sering pindah. Semula disekolahkan di Sekolah Desa (SD) Puluhan, Godean. Lalu pindah ke SD Pedes, lantaran ibunya dan suaminya, Pak Pramono pindah rumah, ke Kemusuk Kidul. Namun, Pak Kertosudiro lantas memindahkannya ke Wuryantoro. Soeharto dititipkan di rumah adik perempuannya yang menikah dengan Prawirowihardjo, seorang mantri tani.
+            \n\nPerkawinan Letkol Soeharto dan Siti Hartinah dilangsungkan tanggal 26 Desember 1947 di Solo. Waktu itu usia Soeharto 26 tahun dan Hartinah 24 tahun. Mereka dikaruniai enam putra dan putri; Siti Hardiyanti Hastuti, Sigit Harjojudanto, Bambang Trihatmodjo, Siti Hediati Herijadi, Hutomo Mandala Putra dan Siti Hutami Endang Adiningsih.
+            \n\nSetelah dirawat selama 24 hari di Rumah Sakit Pusat Pertamina, Jakarta Selatan, mantan presiden Soeharto akhirnya meninggal dunia pada Minggu, 27 Januari 2006). Soeharto meninggal pada pukul 13.10 siang dalam usia 87 tahun.
+            \n\n
+        </item>
+
+        <item>Nama : Bacharuddin Jusuf Habibie
+            \nLahir : Pare-Pare, Sulawesi Selatan, 25 Juni 1936.
+            \nWafat : Jakarta, 11 September 2019
+            \nMasa Bakti : 1998-1999
+            \nWakil Presiden : -
+
+            \n\nPresiden ketiga Republik Indonesia, Beliau merupakan anak keempat dari delapan bersaudara, pasangan Alwi Abdul Jalil Habibie dan RA. Tuti Marini Puspowardojo. Habibie yang menikah dengan Hasri Ainun Besari pada tanggal 12 Mei 1962 ini dikaruniai dua orang putra yaitu Ilham Akbar dan Thareq Kemal.
+            \n\nMasa kecil Habibie dilalui bersama saudara-saudaranya di Pare-Pare, Sulawesi Selatan. Sifat tegas berpegang pada prinsip telah ditunjukkan Habibie sejak kanak-kanak. Habibie yang punya kegemaran menunggang kuda ini, harus kehilangan bapaknya yang meninggal dunia pada 3 September 1950 karena terkena serangan jantung. Tak lama setelah bapaknya meninggal, Habibie pindah ke Bandung untuk menuntut ilmu di Gouvernments Middlebare School. Di SMA, beliau mulai tampak menonjol prestasinya, terutama dalam pelajaran-pelajaran eksakta. Habibie menjadi sosok favorit di sekolahnya.
+            \n\nSetelah tamat SMA di bandung tahun 1954, beliau masuk Universitas Indonesia di Bandung (Sekarang ITB). Beliau mendapat gelar Diploma dari Technische Hochschule, Jerman tahun 1960 yang kemudian mendapatkan gekar Doktor dari tempat yang sama tahun 1965. Habibie menikah tahun 1962, dan dikaruniai dua orang anak. Tahun 1967, menjadi Profesor kehormatan (Guru Besar) pada Institut Teknologi Bandung.
+            \n\n
+        </item>
+        <item>Nama : Abdurrahman Wahid
+            \nLahir :  Jombang, Jawa Timur, 4 Agustus 1940
+            \nWafat : Jakarta, 30 Desember 2009
+            \nMasa Bakti : 1999-2001
+            \nWakil Presiden : Megawati Soekarnoputri
+
+            \n\nAbdurrahman Wahid yang akrab dipanggil Gus Dur menjabat Presiden RI ke-4, Ayahnya adalah seorang pendiri organisasi besar Nahdlatul Ulama, yang bernama KH. Wahid Hasyim. Sedangkan Ibunya bernama Hj. Sholehah adalah putri pendiri Pesantren Denanyar Jombang, K.H. Bisri Syamsuri. Dari perkawinannya dengan Sinta Nuriyah, mereka dikarunia empat orang anak, yaitu Alissa Qotrunnada Munawaroh, Zannuba Arifah Chafsoh, Annita Hayatunnufus, dan Inayah Wulandari.
+            \n\nPada usia belasan tahun Gus Dur telah akrab dengan berbagai majalah, surat kabar, novel dan buku-buku. Bahkan Gus Dur, pernah diminta untuk menjadi komentator sepak bola di televisi. Inilah sebabnya mengapa Gu Dur pada tahun 1986-1987 diangkat sebagai ketua juri Festival Film Indonesia. Sepulang dari pengembaraannya mencari ilmu, Gus Dur kembali ke Jombang dan memilih menjadi guru.
+            \n\nBeliau juga menjadi ketua juri dalam Festival Film Indonesia tahun 1986, 1987. Pada tahun 1984 Gus Dur dipilih secara aklamasi oleh sebuah tim ahl hall wa al-\`aqdi yang diketuai K.H. As\`ad Syamsul Arifin untuk menduduki jabatan ketua umum PBNU pada muktamar ke-27 di Situbondo. Jabatan tersebut kembali dikukuhkan pada muktamar ke-28 di pesantren Krapyak Yogyakarta , dan muktamar di Cipasung Jawa Barat .
+            \n\nAbdurrahman Wahid wafat dalam usianya yang ke 69 pada tanggal 30 Desember 2009 pukul 18.40 WIB di Rumah Sakit Cipto Mangunkusumo Jakarta.
+            \n\n
+
+        </item>
+        <item>Nama : Megawati Soekarnoputri
+            \nLahir :  Yogyakarta, 23 Januari 1947
+            \nMasa Bakti : 2001-2004
+            \nWakil Presiden : Hamzah Haz
+
+            \n\nPresiden Republik Indonesia ke-5, Megawati Soekarnoputri. Megawati adalah putri sulung dari Presiden RI pertama yang juga proklamator, Soekarno dan Fatmawati. Megawati, pada awalnya menikah dengan pilot Letnan Satu Penerbang TNI AU, Surendro dan dikaruniai dua anak lelaki bernama Mohammad Prananda dan Mohammad Rizki Pratama.
+            \n\nWanita bernama lengkap Dyah Permata Megawati Soekarnoputri ini memulai pendidikannya, dari SD hingga SMA di Perguruan Cikini, Jakarta. Sementara, ia pernah belajar di dua Universitas, yaitu Fakultas Pertanian, Universitas Padjadjaran, Bandung (1965-1967) dan Fakultas Psikologi Universitas Indonesia (1970-1972). Kemudian pada tanggal 23 Juli 2001 Megawati menjadi presiden Indonesia.
+            \n\n
+        </item>
+        <item>Nama : Susilo Bambang Yudhoyono
+            \nLahir :  Pacitan, Jawa Timur, 9 September 1949
+            \nMasa Bakti : 2004-2014
+            \nWakil Presiden :
+            \n- Muhammad Jusuf Kalla (2004-2009)
+            \n- Boediono (2009-2014)
+
+            \n\nSusilo Bambang Yudhoyono adalah presiden RI ke-6. SBY adalah anak tunggal dari pasangan R. Soekotjo dan Sitti Habibah. Darah prajurit menurun dari ayahnya yang pensiun sebagai Letnan Satu. Sementara ibunya, Sitti Habibah, putri salah seorang pendiri Ponpes Tremas. Beliau dan istrinya Kristiani Herrawati dikaruniai dua orang putra yakni Agus Harimurti Yudhoyono dan Edhie Baskoro Yudhoyono.
+            \n\nPendidikan SR adalah pijakan masa depan paling menentukan dalam diri SBY. Ketika duduk di bangku kelas lima, beliau untuk pertamakali kenal dan akrab dengan nama Akademi Militer Nasional (AMN), Magelang, Jawa Tengah. Di kemudian hari AMN berubah nama menjadi Akabri. SBY masuk SMP Negeri Pacitan, terletak di selatan alun-alun. Ini adalah sekolah idola bagi anak-anak Kota Pacitan. Mewarisi sikap ayahnya yang berdisiplin keras, SBY berjuang untuk mewujudkan cita-cita masa kecilnya menjadi tentara dengan masuk Akademi Angkatan Bersenjata Republik Indonesia (Akabri) setelah lulus SMA akhir tahun 1968. Namun, lantaran terlambat mendaftar, SBY tidak langsung masuk Akabri. Maka SBY pun sempat menjadi mahasiswa Teknik Mesin Institut 10 November Surabaya (ITS).
+            \n\n
+        </item>
+        <item>Nama : Joko Widodo
+            \nLahir :  Surakarta, Jawa Tengah, 21 Juni 1961
+            \nMasa Bakti : 2014-Sekarang
+            \nWakil Presiden :
+            \n- Muhammad Jusuf Kalla (2014-2019)
+            \n- Ma\'ruf Amin (2019-Sekarang)
+
+            \n\nSejak lahir pada 21 Juni 1961 di Rumah Sakit Brayat Minulyo, Joko Widodo tinggal bersama keluarganya di sebuah rumah kontrakan yang berlokasi di tepi sebuah sungai di Solo. Hidup mereka sangat sederhana. Ayah Jokowi yang sehari-hari menghidupi keluarga dengan berjualan kayu terpaksa membawa istri dan anak-anaknya hidup berpindah dari satu rumah sewa menuju rumah sewa lainnya. Bahkan dengan kondisi tersebut, keluarga Joko Widodo harus rela digusur Pemerintah Kota Solo dari tempat tinggalnya di bantaran kali Pepe dan tinggal menumpang di kediaman seorang kerabat di daerah Gondang.
+            \n\nSelepas berkuliah di Fakultas Kehutanan UGM, Jokowi muda sempat mencicipi pengalaman kerja pada sebuah perusahaan BUMN di Provinsi Aceh. Lokasinya yang berada di tengah hutan, kondisi kerja yang keras, dan rencana untuk mempunyai buah hati menuntun Jokowi dan istri untuk kembali ke kota Solo pada 1988. Ia kemudian bekerja sementara waktu pada pabrik milik pamannya, hingga akhirnya memutuskan untuk berhenti dan memulai usaha mebelnya sendiri. Usaha yang mulanya berjalan dengan kondisi sederhana lambat laun berkembang. Dari ruang lingkup regional, usaha Jokowi tumbuh melingkupi pasar nasional, hingga kemudian merambah pasar mancanegara.
+            \n\n
+            \n\n
+        </item>
+    </string-array>
+</resources>
